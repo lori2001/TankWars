@@ -1,0 +1,15 @@
+﻿  fukbmp.cpp
+d:\programozás\solo programs\tankwars\images\tools\chili\fukbmp\fukbmp.cpp(28): warning C4018: '<': signed/unsigned mismatch
+d:\programozás\solo programs\tankwars\images\tools\chili\fukbmp\fukbmp.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\programozás\solo programs\tankwars\images\tools\chili\fukbmp\fukbmp.cpp(17): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: see declaration of 'wcscpy'
+d:\programozás\solo programs\tankwars\images\tools\chili\fukbmp\fukbmp.cpp(18): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: see declaration of 'wcscat'
+d:\programozás\solo programs\tankwars\images\tools\chili\fukbmp\fukbmp.cpp(20): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: see declaration of 'wcscpy'
+d:\programozás\solo programs\tankwars\images\tools\chili\fukbmp\fukbmp.cpp(21): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: see declaration of 'wcscat'
+d:\programozás\solo programs\tankwars\images\tools\chili\fukbmp\fukbmp.cpp(23): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: see declaration of '_wfopen'
+  fukbmp.vcxproj -> D:\Programozás\Solo Programs\Tankwars\images\Tools\Chili\Debug\fukbmp.exe
+  fukbmp.vcxproj -> D:\Programozás\Solo Programs\Tankwars\images\Tools\Chili\Debug\fukbmp.pdb (Full PDB)
